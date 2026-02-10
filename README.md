@@ -11,7 +11,7 @@ basé sur des techniques de Machine Learning et Deep Learning.
 - Classifier les types d’attaques
 - Améliorer la précision par l’IA
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 - Python
 - Scikit-learn
 - TensorFlow / PyTorch
