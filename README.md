@@ -1,12 +1,12 @@
 # Idsintelligent
 # IDS Intelligent basé sur l'IA
 
-## 📌 Contexte
+## Contexte
 Ce projet s’inscrit dans le cadre d’un travail académique en cybersécurité.
 Il vise à concevoir un système de détection d’intrusions (IDS) intelligent
 basé sur des techniques de Machine Learning et Deep Learning.
 
-## 🎯 Objectifs
+## Objectifs
 - Détecter les intrusions réseau
 - Classifier les types d’attaques
 - Améliorer la précision par l’IA
@@ -18,7 +18,7 @@ basé sur des techniques de Machine Learning et Deep Learning.
 - Wireshark
 - Ubuntu 24.04
 
-## 📂 Structure du projet
+## Structure du projet
 
 │
 ├── data/
@@ -54,8 +54,8 @@ basé sur des techniques de Machine Learning et Deep Learning.
 ├── requirements.txt
 └── LICENSE
 
-## 🚀 Auteur
-**Ariel Zoube**  
+## Auteur
+Ariel Ben Cédric ZOUBE élève ingénieur en 3ème année de License en Réseaux et Systèmes Informatiques 
 Projet académique – Cybersécurité & IA
 
 
